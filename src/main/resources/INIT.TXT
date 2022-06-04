@@ -1,0 +1,43 @@
+13
+
+-168 1
+taymaz
+
+-120 1
+ahmad
+
+-84 1
+amir
+
+-80 1
+kiarash
+
+-72 1
+amir
+
+-48 1
+kiarash
+
+-44 1
+amir
+
+-36 2
+ahmad
+soroush
+
+-32 1
+amir
+
+-28 2
+amir
+soroush
+
+-24 2
+ahmad
+soroush
+
+-12 1
+taymaz
+
+-4 1
+taymaz

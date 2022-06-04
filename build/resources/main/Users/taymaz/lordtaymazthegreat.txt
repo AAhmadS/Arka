@@ -1,0 +1,22 @@
+paddle: 200 870 200 20 false 0 0 NORMAL
+
+Balls
+1
+660 589 10 -10 false false 0 0
+
+Bricks
+6
+65 70 true false false 0 WOODEN
+165 70 false false false 0 INVISIBLE
+265 70 false false false 0 INVISIBLE
+365 70 true false true 0 WOODEN
+465 70 true false false 290 WINKER
+665 70 true false false 290 WINKER
+
+Prize
+0
+
+gen: 978
+score: 7
+hp: 2
+

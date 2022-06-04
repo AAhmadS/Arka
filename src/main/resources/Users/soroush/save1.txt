@@ -1,0 +1,21 @@
+paddle: 260 870 200 20 false 0 0 NORMAL
+
+Balls
+1
+510 209 -10 10 false false 0 0
+
+Bricks
+5
+65 70 true false false 0 PRIZEHOLDER
+165 70 true false false 0 WOODEN
+265 70 false false false 0 INVISIBLE
+365 70 true false false 0 PRIZEHOLDER
+665 70 true false false 0 PRIZEHOLDER
+
+Prize
+0
+
+gen: 1114
+score: 8
+hp: 3
+

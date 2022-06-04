@@ -1,0 +1,18 @@
+paddle: 300 870 200 20 false 0 0 NORMAL
+
+Balls
+1
+270 579 10 10 false false 0 0
+
+Bricks
+1
+665 70 false false false 0 INVISIBLE
+
+Prize
+1
+65 3025 INVERTEDPADLE
+
+gen: 481
+score: 23
+hp: 2
+
